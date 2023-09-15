@@ -1,5 +1,5 @@
 {
-  "name": "first-lib",
+  "name": "first-lib-skelton",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/cjs/index.js",
